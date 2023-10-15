@@ -1,0 +1,28 @@
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.exe
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.deps.json
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.runtimeconfig.json
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.dll
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.pdb
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW_MarkupCompile.cache
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW_MarkupCompile.lref
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.g.resources
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.csproj.CopyComplete
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.dll
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\refint\ADO.NET DisConnected Mode HW.dll
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.pdb
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ADO.NET DisConnected Mode HW.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\ADO.NET DisConnected Mode HW\ADO.NET DisConnected Mode HW\obj\Debug\net6.0-windows\ref\ADO.NET DisConnected Mode HW.dll
